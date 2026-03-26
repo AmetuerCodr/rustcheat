@@ -2,12 +2,13 @@
 name = "rustcheat"
 version = "1.0.0"
 edition = "2024"
-
-[package]
 license = "MIT"
+authors = ["Xavier Womack", "gadgetguy49@gmail.com"]
 keywords = ["rust", "cheatsheet", "cli", "reference", "learning"]
 categories = ["command-line-utilities", "development-tools"]
-publish = "crates.io"
+description = "A fast and simple CLI cheat sheet for Rust, providing quick access to syntax, keywords, and common patterns."
+publish = true
+repository = "https://github.com/AmetuerCodr/rustcheat"
 
 
 [dependencies]
