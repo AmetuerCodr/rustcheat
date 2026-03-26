@@ -1,8 +1,8 @@
 # rustcheat
 
-A minimal CLI cheat sheet for Rust.
-
+A minimal CLI cheat sheet app for Rust.
 Quickly look up syntax, keywords, and common patterns without leaving your terminal.
+No external Libraries!
 
 ---
 
@@ -10,3 +10,10 @@ Quickly look up syntax, keywords, and common patterns without leaving your termi
 
 ```bash
 cargo install rustcheat
+```
+
+## Global Command
+
+```bash
+rustcheat
+```

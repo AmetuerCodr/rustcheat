@@ -9,8 +9,3 @@ categories = ["command-line-utilities", "development-tools"]
 description = "A fast and simple CLI cheat sheet for Rust, providing quick access to syntax, keywords, and common patterns."
 publish = true
 repository = "https://github.com/AmetuerCodr/rustcheat"
-
-
-[dependencies]
-tokio = { version = "1", features = ["full"] }
-open = "5.3.3"
